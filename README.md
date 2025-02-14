@@ -16,21 +16,28 @@ This tool refers to working principles of other image tag tools, but aims to fur
 **4. Tag Images:** Copy paste your image folder path, and click *Run Image Tagger* button. The tool will generate *Original Tags* and *Refined Tags* for each image in the folder, and a .txt file will be generated for each image of the same name, with *Refined Tags" in it.
 
 Please refer to the illustration below:
-![Illustration](https://github.com/user-attachments/assets/4ffc6783-14a7-4942-96d1-fb34da04681c)
+
+![illustration](https://github.com/user-attachments/assets/6a8db095-672a-47f4-8d9a-f1215c237032)
 
 
 ##**HOW TO GET MODELS (VISION & REFINE) AND API ON ALIYUN:**
 
 1. go to [Aliyun Bailian (阿里云百炼)](https://www.aliyun.com/product/bailian). Or [Alibaba Cloud Modelstudio](https://www.alibabacloud.com/zh/product/modelstudio) if you're outside China.
+
 ![image for Aliyun Bailian](https://github.com/user-attachments/assets/7bd8659f-0814-444b-b40d-fc926319bb88)
 
-2. Register your account and sign in.
 
-3. go to [bailianconsole(百炼控制台)](https://bailian.console.aliyun.com/) you can select workspace, models, and get your API for all models here. You can also check the token costs.
+
+3. Register your account and sign in.
+
+4. go to [bailianconsole(百炼控制台)](https://bailian.console.aliyun.com/) you can select workspace, models, and get your API for all models here. You can also check the token costs.
 
 ![bailian console](https://github.com/user-attachments/assets/cbdfcd85-58ff-4898-b1ce-b1eef2e4c134)
 
 4.  Copy paste the name and API of your selected model to the *Model Info* section of the tool
+
+![copy your model name and API](https://github.com/user-attachments/assets/a52a8505-7799-4233-8efa-a3bccb162e62)
+
 
 ##**WIP. The tool will be continuously improved upon advices.**
 
